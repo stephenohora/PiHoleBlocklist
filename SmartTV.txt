@@ -185,7 +185,7 @@ samsungadhub.com
 samsungcloudsolution.com
 samsungcloudsolution.net
 samsungqbe.com
-#samsungrm.net # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
+samsungrm.net # https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.whitelist.txt
 sas.samsungcloudsolution.com
 sca.samsung.com
 sso.internetat.tv # account login
@@ -215,7 +215,7 @@ gamespromotion.samsungcloudsolution.com
 tvx.adgrx.com
 #auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
 #cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
-#infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
+infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
 #lcprd1.samsungcloudsolution.net # ping test, no beaconing
 #otnprd10.samsungcloudsolution.net # required for software update
 #otnprd11.samsungcloudsolution.net # required for software update
@@ -225,7 +225,7 @@ tvx.adgrx.com
 #samsungotn.net # system update check on Samsung UE65RU7455
 #time.samsungcloudsolution.com # if blocked, services like Plex, YouTube and Amazon Video not working anymore on some Samsung TV's
 #www.samsungotn.net # required for software update
-#osb-ussvc.samsungqbe.com # required for TV Plus
+osb-ussvc.samsungqbe.com # required for TV Plus
 #otn.samsungcloudcdn.com # Prevents updates on UE49KS7000 and QE55Q9FNA; https://github.com/Perflyst/PiHoleBlocklist/issues/60
 #ns11.whois.co.kr # Prevents Series 7 TVs from opening YouTube
 
